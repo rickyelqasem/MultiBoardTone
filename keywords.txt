@@ -1,0 +1,7 @@
+# datatypes
+playDue	KEYWORD1
+playUno	KEYWORD1
+
+#Methods / functions
+
+playMelody	KEYWORD2
